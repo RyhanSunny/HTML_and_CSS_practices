@@ -2,4 +2,5 @@
 Just some practice code and references, basic stuff really.
 
 HTML, CSS
-IDE used: Brackets
+# IDE used: 
+Brackets
