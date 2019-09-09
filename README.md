@@ -1,2 +1,5 @@
 # HTML_and_CSS_practices
-Practice codes and basic stuff really.
+Just some practice code and references, basic stuff really.
+
+HTML, CSS
+IDE used: Brackets
