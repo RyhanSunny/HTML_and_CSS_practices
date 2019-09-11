@@ -4,3 +4,17 @@ Just some practice code and references, basic stuff really.
 HTML, CSS
 # IDE used: 
 Brackets
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Links</title>
+    </head>
+    <body>
+        <h1>Did you know?</h1>
+        <p>While discussing something on the interner, if you come across something you don't know, it is 75.9% faster to just <a href="https://www.google.com">Google</a>  it than to ask someone about it. 'Why' you may ask? Well.. <a href="https://lmgtfy.com/?q=why+is+it+better+to+google+something+before+asking+someone+about+it">let me google that for you</a> </p>
+        <p>Still want to talk to a professional? </p>
+        <p>Contact us now using our much convenient <a href="contact_page.html">Contact Page!</a></p>
+    </body>
+</html>
+
