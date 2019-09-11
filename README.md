@@ -5,7 +5,7 @@ HTML, CSS
 # IDE used: 
 Brackets
 
-<pre><code>
+<pre><code>&gt
 <!DOCTYPE html>
 <html>
     <head>
@@ -19,4 +19,4 @@ Brackets
     </body>
 </html>
 
-</code></pre>
+&gt</code></pre>
