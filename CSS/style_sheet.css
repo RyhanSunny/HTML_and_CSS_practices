@@ -1,0 +1,15 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    font-size: 50px;
+    color: darksalmon;
+}
+p{
+    font-style: bold;
+    color: chocolate;
+}
+ol{
+    margin: 20px;
+    color: chocolate
+}
