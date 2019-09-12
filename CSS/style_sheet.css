@@ -36,4 +36,29 @@ body#id_classes{
     font-size: 1.3em;
 }
 
+.primary_box{
+    background-color:floralwhite;
+    border: solid 10px salmon;
+    padding: 20px;
+    margin: 6px;
+}
+
+.secondary_box{
+    background-color:floralwhite;
+    border: solid 10px salmon;
+    padding: 20px;
+    margin: 6px;
+}
+
+ .primary_box em{
+    color:dimgray
+}
+.primary_box p em{
+    color:blueviolet
+}
+
+
+
+
+
 
