@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 h1{
-    font-size: 2em;
+    font-size: 3em;
 }
 h2{
     font-size: 1.6em;
@@ -90,4 +90,28 @@ strong{
     background-position: center left;
     background-repeat: repeat-x;
 
+}
+
+
+/* Links Styling */
+
+/* unvisited link */
+a:link{
+    color: blue;
+}
+
+/* Visited Link */
+a:visited{
+    color: purple;
+}
+
+/* Mouse Over Link */
+a:hover{
+    color: deepskyblue;
+    font-size: 2em;
+}
+
+/* Active Link */
+a:active{
+    color: mediumorchid;
 }
