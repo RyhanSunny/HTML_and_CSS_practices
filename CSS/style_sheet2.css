@@ -47,3 +47,25 @@ strong{
 }
 
 /*end of text decoration*/
+
+
+/* CSS Borders */
+#x{
+    background-color: #FFFF9F;
+}
+.border_box{
+    background-color: #FFDD00;
+    margin: 0 0 20px;
+    padding: 30px;
+    width: 320;
+    text-align: center;
+}
+#box1{border: solid 2px #5E00CF;}
+#box2{border: dashed 2px #5E00CF;}
+#box3{border: dotted 2px #5E00CF;}
+#box4{border: double 4px #5E00CF;}
+#box5{border: solid 4px #5E00CF;}
+#box6{border: dashed 4px #5E00CF;}
+#box7{border: dotted 4px #5E00CF;}
+#box8{border: double 6px #5E00CF;}
+}
