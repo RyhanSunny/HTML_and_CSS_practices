@@ -50,15 +50,32 @@ body#id_classes{
     margin: 6px;
 }
 
- .primary_box em{
+.primary_box em{
     color:dimgray
 }
 .primary_box p em{
     color:blueviolet
 }
 
+/*grouping selector*/
+/*when you wanna select multiple elements in same css line*/
+.primary_box2, .secondary_box2{
+    background-color:floralwhite;
+    border: solid 10px #8593ba;
+    padding: 20px;
+    margin: 6px;
+}
 
+h1,h2,h3,h4,h5,h6,p{
+    text-align: center;
+    border-bottom: solid 2px #8593ba;
+    color:blueviolet;
+    padding: 0 0 10px;
+}
 
-
+#main_container{
+    width: 960px;
+    margin: auto;
+}
 
 
