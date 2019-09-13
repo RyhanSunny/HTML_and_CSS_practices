@@ -69,3 +69,11 @@ strong{
 #box7{border: dotted 4px #5E00CF;}
 #box8{border: double 6px #5E00CF;}
 }
+
+/* Background Images Example */
+.background-example{
+    height: 300px;
+    width: 300px;
+    border: solid 1px 5E00CF;
+}
+
