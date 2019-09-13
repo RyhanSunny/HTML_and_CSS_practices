@@ -1,0 +1,36 @@
+/* box sizing */
+#x{
+    background-color: #ccffcc;
+}
+#box{
+    background-color: lawngreen;
+    height: 200px;
+    width: 200px;
+    padding: 50px;
+    margin: 50px auto;
+    box-sizing: border-box;
+    border-radius: 1500px;
+    border-bottom-left-radius: 0px;
+}
+
+/* css3 colors and gradients*/
+body#colors{
+    background: rgba(25, 52, 84, 0.9);
+    color: white;
+    font-family: serif;
+    padding: 20px;
+}
+#colors #container{
+    width: 400px;
+    margin: 20px;
+    padding: 45px;
+    box-sizing: border-box;
+    background: rgba(25, 52, 84, 0.9)
+}
+#colors #container{
+/*
+    background: linear-gradient(to right, aqua, grey);
+    background: radial-gradient(green, blue);
+*/
+    /*COMMWNTED BEC GRADIENTS ARE UGLY THANK YOU.*/
+}

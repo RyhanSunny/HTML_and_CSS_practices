@@ -99,19 +99,19 @@ strong{
 a:link{
     color: blue;
 }
-
 /* Visited Link */
 a:visited{
     color: purple;
 }
-
 /* Mouse Over Link */
 a:hover{
     color: deepskyblue;
     font-size: 2em;
 }
-
 /* Active Link */
 a:active{
     color: mediumorchid;
 }
+
+
+
