@@ -68,12 +68,26 @@ strong{
 #box6{border: dashed 4px #5E00CF;}
 #box7{border: dotted 4px #5E00CF;}
 #box8{border: double 6px #5E00CF;}
-}
+
 
 /* Background Images Example */
+
 .background-example{
-    height: 300px;
-    width: 300px;
+    height: 600px;
+    width: 600px;
     border: solid 1px 5E00CF;
 }
 
+#background-1{background-image: url('../images/Groot_portrait.png')}
+#background-2{background-color: #FFDD00 }
+#background-3{
+    background-image: url('../images/Groot_portrait.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#background-4{
+    background-image: url('../images/Groot_portrait.png');
+    background-position: center left;
+    background-repeat: repeat-x;
+
+}
